@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Phuttinan phaksawaeng</h1>
+<h1 align="center">Phuttinan phaksawaeng</h1>
 <h3 align="center"></h3>
 
 
