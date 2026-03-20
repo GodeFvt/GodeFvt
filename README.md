@@ -1,5 +1,5 @@
 # Phuttinan Phaksaweang
-Upcoming B.Sc.IT Graduate | Backend Developer
+Upcoming B.Sc.IT Graduate
 
 ---
 
